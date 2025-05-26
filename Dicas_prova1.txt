@@ -1,0 +1,79 @@
+Para cada pergunta abaixo conceitualize, defina, formalize, exemplifique e analise. use termos da computação para responder:
+
+sobre HSSF:
+
+	Oque é a Hipótese do sistema dos símbolos físicos?
+
+	Quais são seus presupostos?
+
+	Quais são suas limitações?
+
+	Qual a sua relação com a computação?
+
+	Qual sua relação com a representação de conhecimento?
+
+	Oque é compromisso epistemológico?
+
+	Qual a sua relação com a lógica?
+
+	Qual a relação entre lógica, provadores de teorema e linguagens baseadas em lógica?
+
+	No caso do prolog, qual a relação com a lógica de primeira ordem? (LPO)
+
+sobre busca:
+
+	Oque é busca informada?
+
+	Oque é busca local?
+
+	Qual a diferença entre amabas?
+
+	Onde está o conhecimento em cada uma?
+	
+	Quais as vantagens e limitações de cada uma?
+	
+	Quais os passos de modelagem em x(escolha um algoritmo)?
+	
+sobre representação do conhecimento:
+
+	Oque é categoria?
+	
+	Como pode ser representado ação, situação e evento?
+	
+	Oque é fluente?
+	
+	Qual a semelhança e diferença entre projeção e planejamento?
+	
+	Oque são axiomas de quadro (frame axioms)?
+	
+	Oque é frame problem na representação? Oque é a solução via axiomas de estados sucessores?
+	
+	Oque é frame problem na inferência? quais as abordagens? => importante: solucionam? justifique sim ou não.
+	
+	Oque é a hipótese do mundo fechado? e a do mundo aberto?
+
+	Oque são redes semânticas?
+	
+	Oque são lógicas descritivas?
+	
+	
+	
+Oque pergunta-se:
+
+Representação utilizando STRIPS
+	pode solicitar escrever a representação para um problema de planejamento em STRIPS
+	
+Como o algoritmo X funciona?
+	pode-se aplicar o STRIPS e/ou POP a um problema de planejamento de maneira a explicar passa-a-passo como seria a execução
+	
+Quais são as características do algoritmo X
+	completude
+	consistência
+	instânciação
+	detalhes do funcionamento
+		e.g regressão(volta atrás) nos objetivos; quais os efeitos de restrição ao manipular novos objetivos.
+	
+	
+
+
+
